@@ -201,7 +201,7 @@
 <a href="#" class="btn1">CHECK YOUR BOX</a>
 </td>
 <td>
-<img src="https://i.ibb.co/tKx7srb/01.png" class="inline-photo show-on-scroll" alt="HOW WE WORK">
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1159990/toy1.jpg" alt="HOW WE WORK">
 </td>
 </tr>
 </table>
