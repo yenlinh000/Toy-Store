@@ -435,12 +435,7 @@ Copyright © 2021 LEVIOOSA - All rights reserved || Designed By: Mahesh
 </form>
 </div>
 </div>
-
-<!--JAVASCRIPT
-<script src="js/custom.js"></script>-->
-
-  
-  
- <div class="credits">CREDITS: W3SCHOOLS, UNSPLASH.COM</div>
+<script src="works.js">
+</script>
 </body>
 </html>
