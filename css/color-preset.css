@@ -1,0 +1,67 @@
+/* General color defination
+Color value depend on preset color that picking on template settings > Presets
+*/
+
+:root {
+    --background-color: currentColor;
+    --background: currentColor;
+    --text-color: currentColor;
+}
+#sp_qc_submit:hover,
+.skills .progress-bar, 
+.skills span, 
+.skills pan:after,
+#sp_qc_submit,
+#offcanvas-toggler,
+div.k2ItemsBlock ul li:after,
+div.k2ItemsBlock ul li:hover .moduleItemReadMore:after,
+.sppb-panel-heading.active i,
+.skill-box .skills-circle  ul > li,
+.skill-box .skills-circle ul > li > span.bar-circle-cover,
+div.itemCommentsForm form input#submitCommentButton,
+div.itemCommentsForm form input#submitCommentButton:hover,
+.creativecontactform_wrapper input.creativecontactform_send,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:after {
+    background-color: var(--background-color);
+}
+.sp-megamenu-parent > li .sp-menu-badge {
+    background: var(--background-color);
+}
+#sp_qc_submit,
+.skills .cont p,
+.video-item figure a:hover:after,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li:hover > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+div.k2ItemsBlock ul li a {
+    color: var(--text-color);
+}
+#sp-bottom1 ul:hover .text,
+#sp-bottom1 ul:hover .icon em,
+.j2store-single-product .product-title a:hover {
+  	color: var(--text-color)!important;
+}
+#sp_qc_submit, .page-item.active .page-link,
+#sp-position1 ul li a:before {
+    border-color:var(--text-color) !important;
+}
+.btn-large, .button.btn-large,
+.j2store-cart-button.btn.btn-primary:hover,
+.sppb-panel-modern>.sppb-panel-heading.active:after, .et-about-item {
+    background: var(--background-color)!important;
+}
+.video-item figure a:after:hover {
+    border: 1px solid var(--text-color);
+}
+
+.et-contact .et-contact-item .sppb-icon-container,
+.btn-success, .et-new-item, .et-info-color, .page-item.active .page-link,
+#sp-position1 ul li a, .et-button, #sp-bottom1 .shrewd_solution_icon ul li a,
+.et-text-bg .sppb-row-container, #sp-quickcontact-form #sp_qc_submit, .sp-megamenu-parent > li > a:before {
+    background: var(--background-color)!important;
+}
+
+.et-title h6, a:hover, .et-get-item .sppb-media-content h3, 
+.et-title strong.last, .et-event i, .et-counter-item h3, #sp-logo p, .et-title-big,
+.et-title-color h3, .et-quote-icon i, .et-qoute-name .sppb-addon-content, .et-quote-text h3 {
+    color: var(--text-color)!important;
+}
